@@ -1,2 +1,2 @@
-# passwor_generate
+# frontend
 project_2
